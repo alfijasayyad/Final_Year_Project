@@ -1,0 +1,403 @@
+age,Gender,profession,working_hours,Do you play any games?,Which online game do you play?,hours_online_games,Hobbies? What You like to do in your free time??,what you enjoy?,hours_social_media,addiction_level
+25,0,Software Developer,8,1,Apex Legends,2,"Playing Guitar, Hiking, Watching TV",talking to your friend;talk to elders / family members,3,Moderate
+32,1,Marketing Executive,9,1,Candy Crush Saga,1,"Reading, Traveling, Photography",talking to your friend;talk to elders / family members,2,Low
+19,0,Student,5,1,Fortnite,3,"Playing Soccer, Hanging out with friends",talking to your friend;talk to elders / family members,4,Highly
+45,0,Sales Manager,10,0,Fortnite,0,"Reading, Cooking, Watching Movies",talking to your friend;talk to elders / family members,1,Moderate
+28,1,Graphic Designer,6,1,Among Us,2,"Drawing, Painting, Listening to Music",talking to your friend;talk to elders / family members,2,Low
+21,0,Student,7,1,FIFA 22,4,"Playing Basketball, Playing Video Games",talking to your friend;talk to elders / family members,3,Moderate
+36,1,Lawyer,10,0,FIFA 23,0,"Playing with Kids, Reading, Cooking",talking to your friend;talk to elders / family members,3,Low
+29,0,Web Developer,8,1,Call of Duty: Warzone,2,"Playing Piano, Hiking, Playing Video Games",talking to your friend;talk to elders / family members,2,Low
+23,1,Student,4,1,Minecraft,1,"Painting, Singing, Watching TV",talking to your friend;talk to elders / family members,1,Low
+40,0,Business Owner,12,1,Clash of Clans,3,"Traveling, Cooking, Watching Documentaries",talking to your friend;talk to elders / family members,1,Low
+23,0,Engineer,8,1,fIFa 22,3,Reading,talking to your friend;talk to elders / family members,2,Moderate
+35,1,Writer,10,0,fIFa 23,0,Painting,talking to your friend;talk to elders / family members,1,Low
+42,0,Manager,9,1,fIFa 24,5,Sports,talking to your friend;talk to elders / family members,3,Moderate
+29,1,Teacher,7,0,fIFa 25,0,Cooking,talking to your friend;talk to elders / family members,0,Low
+25,0,Engineer,8,1,Call of Duty,2,Reading,Hiking,2,Moderate
+32,1,Teacher,7,0,Call of Duty,0,Cooking,Painting,1,Low
+28,0,Artist,6,1,Fortnite,3,Music,Drawing,2,Moderate
+36,1,Doctor,10,0,Fortnite,0,Hiking,Reading,0,Low
+22,0,Student,4,1,PUBG,2,Sports,Listening to music,2,Moderate
+45,0,Lawyer,12,0,PUBG,0,Travel,Photography,1,Low
+31,1,Engineer,9,1,PUBG,1,Reading,Dancing,2,Highly
+27,0,Designer,8,0,Minecraft,0,Music,Playing guitar,1,Low
+24,1,Accountant,5,1,Among Us,2,Cooking,Watching movies,2,Moderate
+29,0,Writer,7,0,Among Us,0,Travel,Reading,1,Low
+33,1,Scientist,10,1,League of Legends,4,Music,Painting,2,Highly
+26,0,Analyst,6,0,League of Legends,0,Sports,Listening to podcasts,1,Low
+23,1,Student,3,1,Free Fire,1,Travel,Photography,2,Moderate
+30,0,Salesman,8,0,Free Fire,0,Cooking,Playing video games,1,Low
+35,1,Entrepreneur,11,1,World of Warcraft,5,Reading,Traveling,2,Highlyly
+23,0,Engineer,8,1,Call of Duty,2,Reading books,Traveling,1,Moderate
+35,1,Accountant,9,0,Call of Duty,0,Playing with pets,Traveling,2,Low
+28,0,Marketing,6,1,Fortnite,3,Playing guitar,Traveling,2,Moderate
+19,1,Student,4,1,PUBG,4,Painting,Traveling,1,Moderate
+41,0,Manager,10,0,PUBG,0,Cooking,Traveling,1,Low
+27,1,Sales,8,1,World of Warcraft,5,Traveling,Traveling,2,Moderate
+31,0,IT,7,0,World of Warcraft,0,Watching TV,Traveling,2,Low
+25,1,HR,8,1,Valorant,4,Playing volleyball,Traveling,1,Moderate
+22,0,Student,6,1,Counter-Strike,2,Listening to music,Traveling,2,Low
+36,1,Consultant,9,0,Counter-Strike,0,Reading novels,Traveling,2,Low
+29,0,Banking,8,1,Apex Legends,6,Photography,Traveling,1,Moderate
+21,1,Student,5,1,Minecraft,3,Watching movies,Traveling,2,Moderate
+33,0,Entrepreneur,10,0,Minecraft,0,Gardening,Traveling,1,Low
+26,1,Designer,8,1,League of Legends,4,Dancing,Traveling,2,Moderate
+24,0,Writer,7,1,Among Us,2,Writing stories,Traveling,2,Low
+40,1,Doctor,11,0,Among Us,0,Playing badminton,Traveling,1,Low
+30,0,Scientist,8,1,Dota 2,5,Playing football,Traveling,2,Moderate
+20,1,Student,4,1,Roblox,3,Listening to music,Traveling,1,Low
+34,0,Lawyer,9,0,Roblox,0,Drawing,Traveling,2,Low
+27,1,Engineer,8,1,Team Fortress 2,4,Hiking,Traveling,2,Moderate
+32,0,Sales,8,1,Clash of Clans,6,Watching TV,Traveling,1,Moderate
+23,1,Marketing,6,1,Counter-Strike,3,Playing basketball,Traveling,2,Moderate
+23,0,Engineer,8,1,Dota 2,2,Reading,Hiking,1,Moderate
+31,1,Writer,6,0,Dota 3,0,Painting,Listening to Music,2,Low
+27,0,Teacher,7,1,League of Legends,3,Sports,Gardening,2,Moderate
+19,1,Student,5,1,Valorant,1,Drawing,Watching TV,1,Low
+40,0,Doctor,10,0,Valorant,0,Travel,Cooking,2,Low
+24,1,Engineer,9,1,Call of Duty,2,Travel,Reading,1,Moderate
+28,0,Lawyer,8,0,COD,0,Hiking,Watching TV,2,Low
+33,1,Consultant,7,1,FIFA,2,Travel,Listening to Music,1,Moderate
+22,0,Student,6,1,Minecraft,1,Drawing,Dancing,1,Low
+37,1,Manager,9,0,Minecraft,0,Cooking,Hiking,2,Low
+29,0,Engineer,8,1,Counter-Strike: Global Offensive,3,Sports,Listening to Music,1,Moderate
+25,1,Teacher,6,0,Counter-Strike: Global Offensive,0,Painting,Watching TV,2,Low
+30,0,Doctor,10,1,Apex Legends,2,Travel,Cooking,1,Moderate
+26,1,Writer,7,0,Apex Legends,0,Travel,Listening to Music,2,Low
+25,0,Engineer,8,1,Dota 2,3,Painting,Reading,1,Moderate
+19,1,Student,4,0,Dota 3,0,Drawing,Photography,1,Low
+32,0,Lawyer,9,0,Dota 4,0,Drawing,Cooking,0,Low
+27,1,Accountant,7,1,FIFA,2,Drawing,Watching TV,2,Moderate
+21,0,Student,5,1,PUBG,4,Drawing,Playing guitar,2,Highly
+38,1,Doctor,10,0,PUBG,0,Drawing,Playing with pets,0,Low
+43,0,Teacher,8,1,Call of Duty,2,Drawing,Painting,1,Moderate
+29,1,Engineer,6,1,Among Us,1,Drawing,Reading,2,Moderate
+24,0,Writer,5,0,Among Us,0,Drawing,Writing,0,Low
+31,0,Designer,8,1,Valorant,3,Drawing,Playing chess,2,Moderate
+26,1,Analyst,7,1,CS:GO,4,Drawing,Playing guitar,2,Highly
+34,0,Artist,6,0,CS:GO,0,Drawing,Gardening,1,Low
+22,1,Student,3,1,Fortnite,2,Drawing,Playing football,2,Moderate
+36,1,Manager,9,0,Fortnite,0,Drawing,Listening to music,1,Low
+28,0,Consultant,7,1,Apex Legends,3,Drawing,Traveling,2,Moderate
+23,0,Student,10,1,Call of Duty,3,Reading,Music,2,Moderate
+29,1,Doctor,12,1,PlayerUnknown's,2,Running,Painting,1,Moderate
+31,1,Engineer,8,1,Dota 2,4,Hiking,Music,2,Moderate
+26,0,Marketing,9,0,Dota 3,0,Reading,Travel,0,Low
+34,0,Lawyer,10,1,Call of Duty,3,Hiking,Painting,2,Moderate
+27,1,Designer,7,0,Call of Duty,0,Reading,Travel,1,Low
+25,1,Student,12,1,PUBG Mobile,4,Running,Drawing,2,Moderate
+32,0,Teacher,10,0,PUBG Mobile,0,Reading,Travel,0,Low
+28,1,Entrepreneur,11,1,Valorant,3,Hiking,Music,2,Moderate
+24,1,Student,15,1,Among Us,2,Reading,Drawing,1,Moderate
+30,0,Marketing,9,1,Fortnite,4,Hiking,Painting,2,Moderate
+33,0,Engineer,8,0,Fortnite,0,Running,Travel,1,Low
+26,1,Doctor,12,1,Call of Duty,3,Reading,Music,2,Moderate
+29,0,Designer,7,0,Call of Duty,0,Hiking,Travel,0,Low
+29,1,Teacher,8,0,Fortnite,0,Reading,Painting,1,Low
+45,0,Engineer,9,1,PUBG,2,Tennis,Gardening,2,Moderate
+24,1,Student,6,1,Call of Duty,4,Dancing,Watching TV,2,Moderate
+37,0,Doctor,10,0,PUBG,0,Cooking,Photography,1,Low
+28,0,Lawyer,7,1,FIFA,3,Hiking,Reading,2,Moderate
+32,1,Designer,8,0,Fifa ,0,Cooking,Playing guitar,1,Low
+22,1,Student,5,1,Fortnite,2,Drawing,Listening to music,2,Moderate
+41,0,Manager,9,0,Fortnite,0,Tennis,Watching movies,1,Low
+30,0,Engineer,8,1,Dota 2,5,Cooking,Playing video games,2,Highly
+27,1,Student,6,1,Counter-Strike: Global Offensive,4,Swimming,Playing football,2,Moderate
+33,1,Doctor,10,0,Counter-Strike: Global Offensive,0,Reading,Playing chess,1,Low
+29,0,Teacher,7,1,World of Warcraft,3,Dancing,Watching TV,2,Moderate
+25,1,Student,6,1,Valorant,2,Drawing,Listening to music,2,Moderate
+38,0,Engineer,9,0,Valorant,0,Hiking,Playing guitar,1,Low
+26,0,Lawyer,7,1,Overwatch,4,Cooking,Watching movies,2,Moderate
+24,0,Engineer,8,1,PUBG,3,Reading,Hiking,2,Moderate
+41,1,Lawyer,9,0,PUBG,0,Sports,Cooking,1,Low
+29,0,Doctor,12,1,Fortnite,5,Music,Gardening,3,Highly
+22,0,Student,5,1,COD,2,Reading,Drawing,2,Low
+38,1,Designer,7,0,COD,0,Art,Dancing,1,Low
+35,1,Manager,10,1,Minecraft,4,Reading,Photography,2,Moderate
+27,0,Teacher,8,1,Valorant,3,Music,Swimming,3,Moderate
+30,0,Developer,9,1,Among Us,2,Reading,Gaming,2,Low
+43,1,Engineer,11,0,Among Us,0,Travel,Hiking,1,Low
+26,1,Writer,6,0,Among Us,0,Writing,Yoga,1,Low
+25,1,Engineer,8,1,PUBG,2,Reading,Sports,1,Moderate
+31,1,Teacher,7,0,PUBG,0,Movies,Music,0,Low
+28,1,IT,10,1,COD,3,Music,Gaming,1,Highly
+23,0,Lawyer,6,0,COD,0,Sports,Music,0,Low
+26,0,Writer,8,1,Clash of Clans,1,Reading,Writing,0,Moderate
+29,1,Doctor,9,0,Clash of Clans,0,Movies,Dancing,0,Low
+30,0,Engineer,8,1,PUBG,2,Sports,Music,1,Moderate
+27,0,IT,9,1,Fortnite,2,Reading,Painting,0,Moderate
+24,1,Teacher,7,0,AMong Us,0,Movies,Traveling,0,Low
+26,0,Lawyer,8,1,Among Us,1,Music,Writing,0,Moderate
+28,1,Writer,6,0,Among Us,0,Sports,Music,0,Low
+25,0,Doctor,9,0,Dota 2,0,Movies,Traveling,0,Low
+29,1,Engineer,8,1,Minecraft,3,Gaming,Reading,1,Highly
+27,0,IT,9,1,Dota 2,2,Reading,Music,1,Moderate
+23,1,Teacher,7,0,Dota 3,0,Movies,Dancing,0,Low
+23,0,Engineer,8,1,PUBG,2,Drawing,Reading,1,Moderate
+30,1,Teacher,6,0,PUBG,0,Singing,Gardening,0,Low
+35,0,Accountant,9,1,Fortnite,4,Cooking,Painting,2,Highly
+27,1,Doctor,10,0,Fortnite,0,Dancing,Photography,0,Low
+32,0,Lawyer,7,1,Apex Legends,3,Hiking,Watching TV,1,Moderate
+29,1,Designer,8,0,Apex Legends,0,Travel,Reading,2,Highly
+25,0,Engineer,9,1,Valorant,5,Drawing,Playing guitar,1,Moderate
+31,1,Teacher,6,0,Valorant,0,Singing,Gardening,0,Low
+26,0,Accountant,8,1,Call of Duty: Warzone,2,Cooking,Painting,1,Moderate
+24,1,Doctor,9,0,Call of Duty: Warzone,0,Dancing,Photography,2,Highly
+28,0,Lawyer,7,1,Call of Duty: Warzone,3,Hiking,Watching TV,0,Moderate
+27,1,Designer,8,0,Call of Duty: Warzone,0,Travel,Reading,1,Moderate
+25,0,Engineer,8,1,Minecraft,4,Drawing,Playing guitar,1,Moderate
+33,1,Teacher,6,0,Minecraft,0,Singing,Gardening,2,Highly
+29,0,Accountant,9,1,League of Legends,5,Cooking,Painting,0,Moderate
+28,0,Engineer,8,0,League of Legends,0,Sports,Reading Books,1,Moderate
+45,1,Doctor,10,1,PUBG Mobile,3,Cooking,Listening to Music,1,Moderate
+32,1,Lawyer,9,0,PUBG Mobile,0,Travel,Watching Movies,0,Low
+39,0,Teacher,7,1,Among Us,2,Reading,Socializing with Friends,2,Highly
+24,0,Student,4,1,Call of Duty,4,Art,Playing Musical Instruments,1,Moderate
+42,1,Manager,10,0,Call of Duty,0,Sports,Gardening,1,Moderate
+37,0,Engineer,8,1,Free Fire,2,Sports,Watching TV Shows,2,Highly
+29,1,Doctor,9,0,Free Fire,0,Travel,Listening to Music,1,Moderate
+31,0,Writer,6,1,Among Us,1,Reading,Playing Video Games,2,Highly
+36,1,Teacher,7,0,No game,0,Travel,Cooking,1,Moderate
+25,1,Engineer,8,1,PUBG,3,Reading,Playing Guitar,2,Moderate
+30,0,Teacher,6,1,Dota 2,5,Cooking,Watching Movies,1,Moderate
+23,0,Student,0,1,Call of Duty: Warzone,2,Sports,Listening to Music,0,Low
+35,1,Manager,9,0,No game,0,Reading,Gardening,1,Low
+27,0,Accountant,8,1,League of Legends,4,Cooking,Playing Video Games,2,Moderate
+45,1,Doctor,10,0,No game,0,Travel,Photography,1,Low
+29,0,Writer,7,0,No game,0,Reading,Watching TV Shows,0,Low
+32,1,Engineer,9,1,World of Warcraft,6,Sports,Playing Football,2,Highly
+24,1,Developer,8,1,Fortnite,3,Music,Watching YouTube,1,Moderate
+31,1,Designer,6,0,Fortnite,0,Travel,Playing Board Games,0,Low
+28,0,Marketing Executive,8,1,Fortnite,5,"Dancing, Reading",Swimming,1,Moderate
+37,1,Doctor,10,0,Dota 3,0,"Singing, Painting",Playing with Kids,0,Low
+44,0,Engineer,9,1,Apex Legends,3,"Reading, Cooking",Watching TV,2,Highly
+22,1,Student,-,1,PUBG Mobile,4,"Drawing, Gaming",Listening to Music,2,Highly
+56,1,Writer,6,0,PUBG Mobile,0,"Reading, Writing",Traveling,0,Low
+33,0,Chef,12,0,PUBG Mobile,0,"Cooking, Baking",Playing Guitar,1,Moderate
+48,0,Architect,8,1,Call of Duty: Warzone,2,"Drawing, Hiking",Yoga,1,Moderate
+25,1,Engineer,7,1,Fortnite,2,Playing Guitar,Watching Movies,2,Highly
+40,1,Businessman,10,0,Fortnite,0,"Reading, Traveling",Gardening,0,Low
+29,0,Accountant,9,0,Fortnite,0,"Swimming, Dancing",Reading,0,Low
+26,1,Designer,8,1,Valorant,4,"Drawing, Gaming",Watching TV,1,Moderate
+36,0,Engineer,10,0,Valorant,0,"Cooking, Gardening",Hiking,0,Low
+31,1,Lawyer,9,0,Valorant,0,Playing Guitar,Painting,0,Low
+23,0,Student,-,1,Minecraft,2,"Reading, Gaming",Cooking,2,Highly
+28,1,Software Engineer,8,0,No game,0,"Reading, Cooking",Gardening,1,Low
+35,0,Doctor,10,1,PUBG,2,"Swimming, Music",Playing Guitar,2,Moderate
+22,0,Student,6,1,COD,5,"Photography, Travelling",Watching TV,3,Moderate
+42,1,Lawyer,9,0,No game,0,"Reading, Sports",Playing Tennis,1,Low
+29,1,Engineer,7,1,Valorant,6,"Video Games, Hiking",Painting,3,Moderate
+31,0,Teacher,8,0,No game,0,"Reading, Dancing",Playing Piano,1,Low
+24,1,Accountant,9,1,Free Fire,4,"Music, Cooking",Baking,2,Moderate
+39,1,Salesman,8,0,No game,0,"Traveling, Photography",Playing Chess,1,Low
+27,0,Artist,6,1,Minecraft,3,"Drawing, Painting",Playing Guitar,4,Moderate
+33,1,Writer,7,0,No game,0,"Reading, Writing",Watching Movies,1,Low
+43,0,Manager,10,1,Among Us,2,"Music, Cooking",Playing Piano,3,Moderate
+25,1,Chef,9,0,No game,0,"Cooking, Dancing",Playing Guitar,2,Low
+30,0,Doctor,8,1,Fortnite,7,"Swimming, Reading",Gardening,1,Moderate
+26,1,Engineer,7,0,No game,0,"Reading, Video Games",Playing Guitar,1,Low
+36,0,Lawyer,10,1,Call of Duty,5,"Photography, Traveling",Playing Piano,2,Moderate
+21,0,Student,7,0,Call of Duty,0,"Music, Painting",Playing Guitar,2,Low
+38,1,Manager,9,1,Clash of Clans,3,"Sports, Cooking",Playing Guitar,4,Moderate
+23,0,Accountant,8,1,Valorant,6,"Traveling, Reading",Playing Piano,3,Moderate
+25,0,Software Developer,8,1,Apex Legends,2,"Playing Guitar, Hiking, Watching TV",talking to your friend;talk to elders / family members,3,Moderate
+32,1,Marketing Executive,9,1,Candy Crush Saga,1,"Reading, Traveling, Photography",talking to your friend;talk to elders / family members,2,Low
+19,0,Student,5,1,Fortnite,3,"Playing Soccer, Hanging out with friends",talking to your friend;talk to elders / family members,4,High
+45,0,Sales Manager,10,0,Fortnite,0,"Reading, Cooking, Watching Movies",talking to your friend;talk to elders / family members,1,Moderate
+28,1,Graphic Designer,6,1,Among Us,2,"Drawing, Painting, Listening to Music",talking to your friend;talk to elders / family members,2,Low
+21,0,Student,7,1,FIFA 22,4,"Playing Basketball, Playing Video Games",talking to your friend;talk to elders / family members,3,Moderate
+36,1,Lawyer,10,0,FIFA 23,0,"Playing with Kids, Reading, Cooking",talking to your friend;talk to elders / family members,3,Low
+29,0,Web Developer,8,1,Call of Duty: Warzone,2,"Playing Piano, Hiking, Playing Video Games",talking to your friend;talk to elders / family members,2,Low
+23,1,Student,4,1,Minecraft,1,"Painting, Singing, Watching TV",talking to your friend;talk to elders / family members,1,Low
+40,0,Business Owner,12,1,Clash of Clans,3,"Traveling, Cooking, Watching Documentaries",talking to your friend;talk to elders / family members,1,Low
+23,0,Engineer,8,1,fIFa 22,3,Reading,talking to your friend;talk to elders / family members,2,Moderate
+35,1,Writer,10,0,fIFa 23,0,Painting,talking to your friend;talk to elders / family members,1,Low
+42,0,Manager,9,1,fIFa 24,5,Sports,talking to your friend;talk to elders / family members,3,Moderate
+29,1,Teacher,7,0,fIFa 25,0,Cooking,talking to your friend;talk to elders / family members,0,Low
+25,0,Engineer,8,1,Call of Duty,2,Reading,Hiking,2,Moderate
+32,1,Teacher,7,0,Call of Duty,0,Cooking,Painting,1,Low
+28,0,Artist,6,1,Fortnite,3,Music,Drawing,2,Moderate
+36,1,Doctor,10,0,Fortnite,0,Hiking,Reading,0,Low
+22,0,Student,4,1,PUBG,2,Sports,Listening to music,2,Moderate
+45,0,Lawyer,12,0,PUBG,0,Travel,Photography,1,Low
+31,1,Engineer,9,1,PUBG,1,Reading,Dancing,2,Highly
+27,0,Designer,8,0,Minecraft,0,Music,Playing guitar,1,Low
+24,1,Accountant,5,1,Among Us,2,Cooking,Watching movies,2,Moderate
+29,0,Writer,7,0,Among Us,0,Travel,Reading,1,Low
+33,1,Scientist,10,1,League of Legends,4,Music,Painting,2,Highly
+26,0,Analyst,6,0,League of Legends,0,Sports,Listening to podcasts,1,Low
+23,1,Student,3,1,Free Fire,1,Travel,Photography,2,Moderate
+30,0,Salesman,8,0,Free Fire,0,Cooking,Playing video games,1,Low
+35,1,Entrepreneur,11,1,World of Warcraft,5,Reading,Traveling,2,Highly
+23,0,Engineer,8,1,Call of Duty,2,Reading books,Traveling,1,Moderate
+35,1,Accountant,9,0,Call of Duty,0,Playing with pets,Traveling,2,Low
+28,0,Marketing,6,1,Fortnite,3,Playing guitar,Traveling,2,Moderate
+19,1,Student,4,1,PUBG,4,Painting,Traveling,1,Moderate
+41,0,Manager,10,0,PUBG,0,Cooking,Traveling,1,Low
+27,1,Sales,8,1,World of Warcraft,5,Traveling,Traveling,2,Moderate
+31,0,IT,7,0,World of Warcraft,0,Watching TV,Traveling,2,Low
+25,1,HR,8,1,Valorant,4,Playing volleyball,Traveling,1,Moderate
+22,0,Student,6,1,Counter-Strike,2,Listening to music,Traveling,2,Low
+36,1,Consultant,9,0,Counter-Strike,0,Reading novels,Traveling,2,Low
+29,0,Banking,8,1,Apex Legends,6,Photography,Traveling,1,Moderate
+21,1,Student,5,1,Minecraft,3,Watching movies,Traveling,2,Moderate
+33,0,Entrepreneur,10,0,Minecraft,0,Gardening,Traveling,1,Low
+26,1,Designer,8,1,League of Legends,4,Dancing,Traveling,2,Moderate
+24,0,Writer,7,1,Among Us,2,Writing stories,Traveling,2,Low
+40,1,Doctor,11,0,Among Us,0,Playing badminton,Traveling,1,Low
+30,0,Scientist,8,1,Dota 2,5,Playing football,Traveling,2,Moderate
+20,1,Student,4,1,Roblox,3,Listening to music,Traveling,1,Low
+34,0,Lawyer,9,0,Roblox,0,Drawing,Traveling,2,Low
+27,1,Engineer,8,1,Team Fortress 2,4,Hiking,Traveling,2,Moderate
+32,0,Sales,8,1,Clash of Clans,6,Watching TV,Traveling,1,Moderate
+23,1,Marketing,6,1,Counter-Strike,3,Playing basketball,Traveling,2,Moderate
+23,0,Engineer,8,1,Dota 2,2,Reading,Hiking,1,Moderate
+31,1,Writer,6,0,Dota 3,0,Painting,Listening to Music,2,Low
+27,0,Teacher,7,1,League of Legends,3,Sports,Gardening,2,Moderate
+19,1,Student,5,1,Valorant,1,Drawing,Watching TV,1,Low
+40,0,Doctor,10,0,Valorant,0,Travel,Cooking,2,Low
+24,1,Engineer,9,1,Call of Duty,2,Travel,Reading,1,Moderate
+28,0,Lawyer,8,0,COD,0,Hiking,Watching TV,2,Low
+33,1,Consultant,7,1,FIFA,2,Travel,Listening to Music,1,Moderate
+22,0,Student,6,1,Minecraft,1,Drawing,Dancing,1,Low
+37,1,Manager,9,0,Minecraft,0,Cooking,Hiking,2,Low
+29,0,Engineer,8,1,Counter-Strike: Global Offensive,3,Sports,Listening to Music,1,Moderate
+25,1,Teacher,6,0,Counter-Strike: Global Offensive,0,Painting,Watching TV,2,Low
+30,0,Doctor,10,1,Apex Legends,2,Travel,Cooking,1,Moderate
+26,1,Writer,7,0,Apex Legends,0,Travel,Listening to Music,2,Low
+25,0,Engineer,8,1,Dota 2,3,Painting,Reading,1,Moderate
+19,1,Student,4,0,Dota 3,0,Drawing,Photography,1,Low
+32,0,Lawyer,9,0,Dota 4,0,Drawing,Cooking,0,Low
+27,1,Accountant,7,1,FIFA,2,Drawing,Watching TV,2,Moderate
+21,0,Student,5,1,PUBG,4,Drawing,Playing guitar,2,Highly
+38,1,Doctor,10,0,PUBG,0,Drawing,Playing with pets,0,Low
+43,0,Teacher,8,1,Call of Duty,2,Drawing,Painting,1,Moderate
+29,1,Engineer,6,1,Among Us,1,Drawing,Reading,2,Moderate
+24,0,Writer,5,0,Among Us,0,Drawing,Writing,0,Low
+31,0,Designer,8,1,Valorant,3,Drawing,Playing chess,2,Moderate
+26,1,Analyst,7,1,CS:GO,4,Drawing,Playing guitar,2,Highly
+34,0,Artist,6,0,CS:GO,0,Drawing,Gardening,1,Low
+22,1,Student,3,1,Fortnite,2,Drawing,Playing football,2,Moderate
+36,1,Manager,9,0,Fortnite,0,Drawing,Listening to music,1,Low
+28,0,Consultant,7,1,Apex Legends,3,Drawing,Traveling,2,Moderate
+23,0,Student,10,1,Call of Duty,3,Reading,Music,2,Moderate
+29,1,Doctor,12,1,PlayerUnknown's,2,Running,Painting,1,Moderate
+31,1,Engineer,8,1,Dota 2,4,Hiking,Music,2,Moderate
+26,0,Marketing,9,0,Dota 3,0,Reading,Travel,0,Low
+34,0,Lawyer,10,1,Call of Duty,3,Hiking,Painting,2,Moderate
+27,1,Designer,7,0,Call of Duty,0,Reading,Travel,1,Low
+25,1,Student,12,1,PUBG Mobile,4,Running,Drawing,2,Moderate
+32,0,Teacher,10,0,PUBG Mobile,0,Reading,Travel,0,Low
+28,1,Entrepreneur,11,1,Valorant,3,Hiking,Music,2,Moderate
+24,1,Student,15,1,Among Us,2,Reading,Drawing,1,Moderate
+30,0,Marketing,9,1,Fortnite,4,Hiking,Painting,2,Moderate
+33,0,Engineer,8,0,Fortnite,0,Running,Travel,1,Low
+26,1,Doctor,12,1,Call of Duty,3,Reading,Music,2,Moderate
+29,0,Designer,7,0,Call of Duty,0,Hiking,Travel,0,Low
+29,1,Teacher,8,0,Fortnite,0,Reading,Painting,1,Low
+45,0,Engineer,9,1,PUBG,2,Tennis,Gardening,2,Moderate
+24,1,Student,6,1,Call of Duty,4,Dancing,Watching TV,2,Moderate
+37,0,Doctor,10,0,PUBG,0,Cooking,Photography,1,Low
+28,0,Lawyer,7,1,FIFA,3,Hiking,Reading,2,Moderate
+32,1,Designer,8,0,Fifa ,0,Cooking,Playing guitar,1,Low
+22,1,Student,5,1,Fortnite,2,Drawing,Listening to music,2,Moderate
+41,0,Manager,9,0,Fortnite,0,Tennis,Watching movies,1,Low
+30,0,Engineer,8,1,Dota 2,5,Cooking,Playing video games,2,Highly
+27,1,Student,6,1,Counter-Strike: Global Offensive,4,Swimming,Playing football,2,Moderate
+33,1,Doctor,10,0,Counter-Strike: Global Offensive,0,Reading,Playing chess,1,Low
+29,0,Teacher,7,1,World of Warcraft,3,Dancing,Watching TV,2,Moderate
+25,1,Student,6,1,Valorant,2,Drawing,Listening to music,2,Moderate
+38,0,Engineer,9,0,Valorant,0,Hiking,Playing guitar,1,Low
+26,0,Lawyer,7,1,Overwatch,4,Cooking,Watching movies,2,Moderate
+24,0,Engineer,8,1,PUBG,3,Reading,Hiking,2,Moderate
+41,1,Lawyer,9,0,PUBG,0,Sports,Cooking,1,Low
+29,0,Doctor,12,1,Fortnite,5,Music,Gardening,3,Highly
+22,0,Student,5,1,COD,2,Reading,Drawing,2,Low
+38,1,Designer,7,0,COD,0,Art,Dancing,1,Low
+35,1,Manager,10,1,Minecraft,4,Reading,Photography,2,Moderate
+27,0,Teacher,8,1,Valorant,3,Music,Swimming,3,Moderate
+30,0,Developer,9,1,Among Us,2,Reading,Gaming,2,Low
+43,1,Engineer,11,0,Among Us,0,Travel,Hiking,1,Low
+26,1,Writer,6,0,Among Us,0,Writing,Yoga,1,Low
+25,1,Engineer,8,1,PUBG,2,Reading,Sports,1,Moderate
+31,1,Teacher,7,0,PUBG,0,Movies,Music,0,Low
+28,1,IT,10,1,COD,3,Music,Gaming,1,Highly
+23,0,Lawyer,6,0,COD,0,Sports,Music,0,Low
+26,0,Writer,8,1,Clash of Clans,1,Reading,Writing,0,Moderate
+29,1,Doctor,9,0,Clash of Clans,0,Movies,Dancing,0,Low
+30,0,Engineer,8,1,PUBG,2,Sports,Music,1,Moderate
+27,0,IT,9,1,Fortnite,2,Reading,Painting,0,Moderate
+24,1,Teacher,7,0,AMong Us,0,Movies,Traveling,0,Low
+26,0,Lawyer,8,1,Among Us,1,Music,Writing,0,Moderate
+28,1,Writer,6,0,Among Us,0,Sports,Music,0,Low
+25,0,Doctor,9,0,Dota 2,0,Movies,Traveling,0,Low
+29,1,Engineer,8,1,Minecraft,3,Gaming,Reading,1,Highly
+27,0,IT,9,1,Dota 2,2,Reading,Music,1,Moderate
+23,1,Teacher,7,0,Dota 3,0,Movies,Dancing,0,Low
+23,0,Engineer,8,1,PUBG,2,Drawing,Reading,1,Moderate
+30,1,Teacher,6,0,PUBG,0,Singing,Gardening,0,Low
+35,0,Accountant,9,1,Fortnite,4,Cooking,Painting,2,Highly
+27,1,Doctor,10,0,Fortnite,0,Dancing,Photography,0,Low
+32,0,Lawyer,7,1,Apex Legends,3,Hiking,Watching TV,1,Moderate
+29,1,Designer,8,0,Apex Legends,0,Travel,Reading,2,Highly
+25,0,Engineer,9,1,Valorant,5,Drawing,Playing guitar,1,Moderate
+31,1,Teacher,6,0,Valorant,0,Singing,Gardening,0,Low
+26,0,Accountant,8,1,Call of Duty: Warzone,2,Cooking,Painting,1,Moderate
+24,1,Doctor,9,0,Call of Duty: Warzone,0,Dancing,Photography,2,Highly
+28,0,Lawyer,7,1,Call of Duty: Warzone,3,Hiking,Watching TV,0,Moderate
+27,1,Designer,8,0,Call of Duty: Warzone,0,Travel,Reading,1,Moderate
+25,0,Engineer,8,1,Minecraft,4,Drawing,Playing guitar,1,Moderate
+33,1,Teacher,6,0,Minecraft,0,Singing,Gardening,2,Highly
+29,0,Accountant,9,1,League of Legends,5,Cooking,Painting,0,Moderate
+28,0,Engineer,8,0,League of Legends,0,Sports,Reading Books,1,Moderate
+45,1,Doctor,10,1,PUBG Mobile,3,Cooking,Listening to Music,1,Moderate
+32,1,Lawyer,9,0,PUBG Mobile,0,Travel,Watching Movies,0,Low
+39,0,Teacher,7,1,Among Us,2,Reading,Socializing with Friends,2,Highly
+24,0,Student,4,1,Call of Duty,4,Art,Playing Musical Instruments,1,Moderate
+42,1,Manager,10,0,Call of Duty,0,Sports,Gardening,1,Moderate
+37,0,Engineer,8,1,Free Fire,2,Sports,Watching TV Shows,2,Highly
+29,1,Doctor,9,0,Free Fire,0,Travel,Listening to Music,1,Moderate
+31,0,Writer,6,1,Among Us,1,Reading,Playing Video Games,2,Highly
+36,1,Teacher,7,0,No game,0,Travel,Cooking,1,Moderate
+25,1,Engineer,8,1,PUBG,3,Reading,Playing Guitar,2,Moderate
+30,0,Teacher,6,1,Dota 2,5,Cooking,Watching Movies,1,Moderate
+23,0,Student,0,1,Call of Duty: Warzone,2,Sports,Listening to Music,0,Low
+35,1,Manager,9,0,No game,0,Reading,Gardening,1,Low
+27,0,Accountant,8,1,League of Legends,4,Cooking,Playing Video Games,2,Moderate
+45,1,Doctor,10,0,No game,0,Travel,Photography,1,Low
+29,0,Writer,7,0,No game,0,Reading,Watching TV Shows,0,Low
+32,1,Engineer,9,1,World of Warcraft,6,Sports,Playing Football,2,Highly
+24,1,Developer,8,1,Fortnite,3,Music,Watching YouTube,1,Moderate
+31,1,Designer,6,0,Fortnite,0,Travel,Playing Board Games,0,Low
+28,0,Marketing Executive,8,1,Fortnite,5,"Dancing, Reading",Swimming,1,Moderate
+37,1,Doctor,10,0,Dota 3,0,"Singing, Painting",Playing with Kids,0,Low
+44,0,Engineer,9,1,Apex Legends,3,"Reading, Cooking",Watching TV,2,Highly
+22,1,Student,-,1,PUBG Mobile,4,"Drawing, Gaming",Listening to Music,2,Highly
+56,1,Writer,6,0,PUBG Mobile,0,"Reading, Writing",Traveling,0,Low
+33,0,Chef,12,0,PUBG Mobile,0,"Cooking, Baking",Playing Guitar,1,Moderate
+48,0,Architect,8,1,Call of Duty: Warzone,2,"Drawing, Hiking",Yoga,1,Moderate
+25,1,Engineer,7,1,Fortnite,2,Playing Guitar,Watching Movies,2,Highly
+40,1,Businessman,10,0,Fortnite,0,"Reading, Traveling",Gardening,0,Low
+29,0,Accountant,9,0,Fortnite,0,"Swimming, Dancing",Reading,0,Low
+26,1,Designer,8,1,Valorant,4,"Drawing, Gaming",Watching TV,1,Moderate
+36,0,Engineer,10,0,Valorant,0,"Cooking, Gardening",Hiking,0,Low
+31,1,Lawyer,9,0,Valorant,0,Playing Guitar,Painting,0,Low
+23,0,Student,-,1,Minecraft,2,"Reading, Gaming",Cooking,2,Highly
+28,1,Software Engineer,8,0,No game,0,"Reading, Cooking",Gardening,1,Low
+35,0,Doctor,10,1,PUBG,2,"Swimming, Music",Playing Guitar,2,Moderate
+22,0,Student,6,1,COD,5,"Photography, Travelling",Watching TV,3,Moderate
+42,1,Lawyer,9,0,No game,0,"Reading, Sports",Playing Tennis,1,Low
+29,1,Engineer,7,1,Valorant,6,"Video Games, Hiking",Painting,3,Moderate
+31,0,Teacher,8,0,No game,0,"Reading, Dancing",Playing Piano,1,Low
+24,1,Accountant,9,1,Free Fire,4,"Music, Cooking",Baking,2,Moderate
+39,1,Salesman,8,0,No game,0,"Traveling, Photography",Playing Chess,1,Low
+27,0,Artist,6,1,Minecraft,3,"Drawing, Painting",Playing Guitar,4,Moderate
+33,1,Writer,7,0,No game,0,"Reading, Writing",Watching Movies,1,Low
+43,0,Manager,10,1,Among Us,2,"Music, Cooking",Playing Piano,3,Moderate
+25,1,Chef,9,0,No game,0,"Cooking, Dancing",Playing Guitar,2,Low
+30,0,Doctor,8,1,Fortnite,7,"Swimming, Reading",Gardening,1,Moderate
+26,1,Engineer,7,0,No game,0,"Reading, Video Games",Playing Guitar,1,Low
+36,0,Lawyer,10,1,Call of Duty,5,"Photography, Traveling",Playing Piano,2,Moderate
+21,0,Student,7,0,Call of Duty,0,"Music, Painting",Playing Guitar,2,Low
+38,1,Manager,9,1,Clash of Clans,3,"Sports, Cooking",Playing Guitar,4,Moderate
+23,0,Accountant,8,1,Valorant,6,"Traveling, Reading",Playing Piano,3,Moderate

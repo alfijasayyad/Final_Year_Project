@@ -1,0 +1,102 @@
+{%load static%}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction Page</title>
+    <style>
+        body {
+            background-color :#000000;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+        .main{
+            position: fixed;
+            top: 30px;
+            left: 200px;
+            width: 800px;
+            background-color:#ffffff;
+            border-radius: 10px;
+            align-items: center;
+            padding: 5%;
+        }
+        h1{
+            color: #0086b3;
+            font-size: 30px;
+            font-weight: bold;
+        }
+        input[type=submit]{
+            background-color: #4dc3ff;
+            border: 2px;
+            color: white;
+            padding: 8px 16px;
+            cursor: pointer;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div align = 'center' class="main">
+        <h1>Please Enter Following Information: </h1>
+        <form action="result">
+            <table>
+                <tr>
+                    <td align = "right">Age (In Numbers) : </td>
+                    <td align ="left"><input type="number" name="n1" required="" min="10" max="100"> </td>
+                </tr>
+
+                <tr>
+                    <td align = "right">Gender (1 for Male and 0 for Female) : </td>
+                    <td align ="left"><input type="number" name="n2" required="" min="0" max="1"> </td>
+                </tr>
+
+                <tr>
+                    <td align = "right">Profession : </td>
+                    <td align ="left"><input type="text" name="n3" required=""> </td>
+                </tr>
+
+                <tr>
+                    <td align = "right">How much time do you work in a day? (Approx. Hours) : </td>
+                    <td align ="left"><input type="number" name="n4" required="" min="0" max="24"> </td>
+                </tr>
+
+                <tr>
+                    <td align = "right">Do you play any games? (If Yes Put 1, Otherwise 0) : </td>
+                    <td align ="left"><input type="number" name="n5" required="" min="0" max="1"> </td>
+                </tr>
+
+                <tr>
+                    <td align = "right">Which online game do you play? (Most Played Game) : </td>
+                    <td align ="left"><input type="text" name="n6" required=""> </td>
+                </tr>
+
+                <tr>
+                    <td align = "right">The time you spend in playing games? (Enter Approx. Hours) : </td>
+                    <td align ="left"><input type="number" name="n7" required="" min="1" max="24"> </td>
+                </tr>
+
+                <tr>
+                    <td align = "right">Hobbies? What You like to do in your free time? : </td>
+                    <td align ="left"><input type="text" name="n8" required=""> </td>
+                </tr>
+
+                <tr>
+                    <td align = "right">what you enjoy? (Most Enjoyable Things) : </td>
+                    <td align ="left"><input type="text" name="n9" required=""> </td>
+                </tr>
+
+                <tr>
+                    <td align = "right">How much time do you spend on Social media? (Enter Approx. Hours) : </td>
+                    <td align ="left"><input type="number" name="n10" required="" min="1" max="24"> </td>
+                </tr>
+            </table>
+            <br>
+            <input type = "submit">
+        </form>
+        <br>
+        Result : {{result2}}
+    </div>
+</body>
+</html>

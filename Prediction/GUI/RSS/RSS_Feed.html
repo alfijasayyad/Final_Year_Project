@@ -1,0 +1,63 @@
+<style>
+    #rss-feed {
+      text-align: center;
+      background-color:rgba(232, 225, 233, 0);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      color: #000; /* Set text color to black */
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
+  
+    #rss-feed h3 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+  
+    #rss-feed a {
+      color: #007bff;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+  
+    #rss-feed a:hover {
+      color: #ff4500;
+    }
+  
+    #rss-feed img {
+      max-width: 100%;
+      height: auto;
+      margin: 10px 0;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+  </style>
+  
+  
+  <div id="rss-feed"></div>
+  
+  <script>
+    fetch('https://api.rss2json.com/v1/api.json?rss_url=https://rss.app/feeds/um6bbdFfXtVSOxy1.xml')
+      .then(response => response.json())
+      .then(data => {
+        const items = data.items;
+  
+        let feedContent = '';
+        for (let i = 0; i < items.length; i++) {
+          const title = items[i].title;
+          const link = items[i].link;
+          const content = items[i].content;
+  
+          // Adjust image width and height
+          const adjustedContent = content.replace(/<img/g, '<img style="width: 500px; height:400px;"');
+  
+          feedContent += `<h3><a href="${link}">${title}</a></h3>`;
+          feedContent += `<div>${adjustedContent}</div>`;
+        }
+  
+        document.getElementById('rss-feed').innerHTML = feedContent;
+      })
+      .catch(error => console.log(error));
+  </script>
+  
